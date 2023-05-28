@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning quantum computing
 - 📫 How to reach me: rohan.nakra100@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohannakra&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+<img src="https://github-readme-stats.vercel.app/api?username=rohannakra&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&hide_rank=true">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohannakra&theme=radical&title_color=8E2DE2&text_color=fff)
 
